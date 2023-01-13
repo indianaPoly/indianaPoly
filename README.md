@@ -10,8 +10,8 @@
 </br>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=indianaPoly&layout=compact"><br><br>
-  <img src="https://github-readme-stats.vercel.app/api?username=indianaPoly&show_icons=true">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=indianapoly&layout=compact"><br><br>
+  <img src="https://github-readme-stats.vercel.app/api?username=indianapoly&show_icons=true">
  </div>
 
 <!--
