@@ -22,4 +22,7 @@
  <img src="https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white" />
 </div>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=indianaPoly&layout=compact&theme=radical)
+<div align="center">
+ ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical)
+ ![Your weekly stats](https://github-readme-stats.vercel.app/api/wakatime?username=your-username&theme=radical)
+</div>
