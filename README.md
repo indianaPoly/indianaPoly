@@ -23,6 +23,6 @@
 </div>
 
 <div align="center">
- ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical)
- ![Your weekly stats](https://github-readme-stats.vercel.app/api/wakatime?username=your-username&theme=radical)
+ ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=indianaPoly&show_icons=true&theme=radical)
+ ![Your weekly stats](https://github-readme-stats.vercel.app/api/wakatime?username=indianaPoly&theme=radical)
 </div>
