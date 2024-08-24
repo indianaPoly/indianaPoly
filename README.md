@@ -21,3 +21,5 @@
  <img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white" />
  <img src="https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white" />
 </div>
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=indianaPoly&layout=compact&theme=radical)
