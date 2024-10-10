@@ -1,16 +1,17 @@
+<h3 align="center">History</h3>
 <div align="center">
   <table>
     <tr>
       <td><strong>Education</strong></td>
-      <td>2019.03 - 2022.06: 숭실대학교 기계공학부<br>2023.03 - 2025.08: 숭실대학교 소프트웨어학부</td>
+      <td>2019.03 - 2022.06 : [숭실대학교] 기계공학부<br>2023.03 - 2025.08 : [숭실대학교] 소프트웨어학부</td>
     </tr>
     <tr>
       <td><strong>Work</strong></td>
-      <td>2024.06 - 2024.08: BlockwaveLabs, DeFi Developer</td>
+      <td>2024.06 - 2024.08 : [BlockwaveLabs] DeFi Developer</td>
     </tr>
     <tr>
       <td><strong>Clubs & Communities</strong></td>
-      <td>2022.10 - 2024.09: YOURSSU, WebFrontend Developer<br>2024.09 - NOW: GDG Member</td>
+      <td>2022.10 - 2024.09 : [YOURSSU] WebFrontend Developer<br>2024.09 - NOW : [GDG SoongSil] Member</td>
     </tr>
   </table>
 </div>
