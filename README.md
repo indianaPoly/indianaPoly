@@ -16,6 +16,4 @@
 <div align="center">
  <h5>GitHub Stats</h5>
  <img src="https://github-readme-stats.vercel.app/api?username=indianaPoly&show_icons=true&theme=radical" alt="GitHub Stats" />
- <img src="https://github-readme-streak-stats.herokuapp.com/?user=indianaPoly&theme=radical" alt="GitHub Streak Stats" />
- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=indianaPoly&layout=compact&theme=radical" alt="Top Languages" />
 </div>
