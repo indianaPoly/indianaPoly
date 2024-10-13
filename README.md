@@ -3,7 +3,7 @@
   <table>
     <tr>
       <td><strong>Education</strong></td>
-      <td>2019.03 - 2022.06 : [숭실대학교] 기계공학부<br>2023.03 - 2025.08 : [숭실대학교] 소프트웨어학부</td>
+      <td>2019.03 - 2022.06 : [SoongSil University] Mechanical Engineering<br>2023.03 - 2025.08 : [SoongSil University] SoftWare Engineering</td>
     </tr>
     <tr>
       <td><strong>Work</strong></td>
