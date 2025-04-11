@@ -3,7 +3,7 @@
   <table>
     <tr>
       <td><strong>Education</strong></td>
-      <td>2019.03 - 2022.06 : [SoongSil University] Mechanical Engineering<br>2023.03 - 2025.08 : [SoongSil University] SoftWare Engineering</td>
+      <td>2019.03 - 2022.06 : [SoongSil University] Mechanical Engineering<br>2023.03 - NOW : [SoongSil University] SoftWare Engineering</td>
     </tr>
     <tr>
       <td><strong>Work</strong></td>
