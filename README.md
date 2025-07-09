@@ -3,7 +3,7 @@
   <table>
     <tr>
       <td><strong>Education</strong></td>
-      <td>2019.03 - 2022.06 : [SoongSil University] Mechanical Engineering<br>2023.03 - NOW : [SoongSil University] SoftWare Engineering</td>
+      <td>2019.03 - 2022.06 : [SoongSil University] Mechanical Engineering<br>2023.03 - 2025.08 : [SoongSil University] SoftWare Engineering</td>
     </tr>
     <tr>
       <td><strong>Work</strong></td>
@@ -11,7 +11,7 @@
     </tr>
     <tr>
       <td><strong>Clubs & Communities</strong></td>
-      <td>2022.10 - 2024.09 : [YOURSSU] WebFrontend Developer<br>2024.09 - NOW : [GDG SoongSil] Member</td>
+      <td>2022.10 - 2024.09 : [YOURSSU] WebFrontend Developer<br>2024.09 - 2025.08 : [GDG SoongSil] Member</td>
     </tr>
   </table>
 </div>
