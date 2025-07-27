@@ -31,6 +31,6 @@
 <div align="center">
   <div>
     <a href="https://indianapoly.github.io/react-animation-typing-text/">react-animation-typing-text</a> | 
-    <a href="https://www.npmjs.com/package/react-animation-typing-textt/">npm</a>
+    <a href="https://www.npmjs.com/package/react-animation-typing-text/">npm</a>
   </div>
 </div>
