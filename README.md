@@ -26,3 +26,11 @@
  <img src="https://img.shields.io/badge/Solidity-%23363636.svg?style=for-the-badge&logo=solidity&logoColor=white" alt="Solidity">
  <img src="https://img.shields.io/badge/Hardhat-FE7A16?style=for-the-badge&logo=hardhat&logoColor=white" alt="Hardhat">
 </div>
+
+<h3 align="center">Package</h3>
+<div align="center">
+  <div>
+    <a href="https://indianapoly.github.io/react-animation-typing-text/">react-animation-typing-text</a> | 
+    <a href="https://www.npmjs.com/package/react-animation-typing-textt/">npm</a>
+  </div>
+</div>
