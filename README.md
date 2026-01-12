@@ -7,7 +7,7 @@
     </tr>
     <tr>
       <td><strong>Work</strong></td>
-      <td>2024.06 - 2024.08 : [BlockwaveLabs] DeFi Developer</td>
+      <td>2024.06 - 2024.08 : [BlockwaveLabs] DeFi Developer<br>2025.08 ~ ing : [DevFive] Frontend Developer</td>
     </tr>
     <tr>
       <td><strong>Clubs & Communities</strong></td>
@@ -21,16 +21,15 @@
  <h5>FrontEnd Stack</h5>
  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript">
  <img src="https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" />
+ <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" />
+
  <h5>BlockChain Stack</h5>
  <img src="https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" />
  <img src="https://img.shields.io/badge/Solidity-%23363636.svg?style=for-the-badge&logo=solidity&logoColor=white" alt="Solidity">
  <img src="https://img.shields.io/badge/Hardhat-FE7A16?style=for-the-badge&logo=hardhat&logoColor=white" alt="Hardhat">
 </div>
 
-<h3 align="center">Package</h3>
+<h3 align="center">GitHub Stats</h3>
 <div align="center">
-  <div>
-    <a href="https://indianapoly.github.io/react-animation-typing-text/">react-animation-typing-text</a> | 
-    <a href="https://www.npmjs.com/package/react-animation-typing-text/">npm</a>
-  </div>
+  <img src="https://github-readme-stats.vercel.app/api?username=indianaPoly&show_icons=true&theme=tokyonight&count_private=true&cache_seconds=1800" />
 </div>
