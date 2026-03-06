@@ -7,7 +7,7 @@
     </tr>
     <tr>
       <td><strong>Work</strong></td>
-      <td>2024.06 - 2024.08 : [BlockwaveLabs] DeFi Developer<br>2025.08 ~ ing : [DevFive] Frontend Developer</td>
+      <td>2024.06 - 2024.08 : [BlockwaveLabs] DeFi Developer<br>2025.08 ~ ing : [DevFive] Full Stack Developer</td>
     </tr>
     <tr>
       <td><strong>Clubs & Communities</strong></td>
