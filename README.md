@@ -33,12 +33,7 @@
  <img src="https://img.shields.io/badge/Hardhat-FE7A16?style=for-the-badge&logo=hardhat&logoColor=white" alt="Hardhat">
 </div>
 
-<h3 align="center">GitHub Stats</h3>
+<h3 align="center">Contribute</h3>
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=indianaPoly&show_icons=true&theme=tokyonight&count_private=true&cache_seconds=1800" />
-</div>
-
-<h3 align="center">3D Contributions</h3>
-<div align="center">
-  <img src="./profile-3d-contrib/profile-night-rainbow.svg" />
+  <a>https://github.com/dev-five-git/vespertide/pull/128</a>
 </div>
