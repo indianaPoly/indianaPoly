@@ -7,7 +7,7 @@
     </tr>
     <tr>
       <td><strong>Work</strong></td>
-      <td>2024.06 - 2024.08 : [BlockwaveLabs] Internship, DeFi Developer<br>2025.08 ~ 2026.01 : [DevFive] Freelancer, Frontend Developer<br>2025.02 ~ 2026.08 : [DevFive] Full-time, Full Stack Developer</td>
+      <td>2024.06 - 2024.08 : [BlockwaveLabs] Internship, DeFi Developer<br>2025.08 ~ 2026.01 : [DevFive] Freelancer, Frontend Developer<br>2026.02 ~ 2026.08 : [DevFive] Full-time, Full Stack Developer</td>
     </tr>
     <tr>
       <td><strong>Clubs & Communities</strong></td>
